@@ -1,0 +1,14 @@
+/* style.css*/
+
+.odd-numbers {
+    background-color: #FFB6C1;
+    font-family: verdana;
+    font-family: DejaVu Sans;
+    font-family: sans-serif;
+
+}
+
+#first-even-number {
+    color: #0000FF;
+    font-size: 36px;
+}
