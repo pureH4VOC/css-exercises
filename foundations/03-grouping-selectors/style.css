@@ -1,0 +1,16 @@
+/* style.css */
+
+.black-white-bold {
+    background-color: #000000;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+.click, .no-click-me{
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif, 'Times New Roman', Times, serif, sans-serif;
+}
+
+.yellow-background {
+    background-color: rgb(255, 255, 0);
+}
